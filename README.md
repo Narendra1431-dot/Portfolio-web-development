@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Portfolio Website
 
 A fully responsive personal portfolio website built with **HTML5**, **CSS3**, **JavaScript**, **PHP**, and **MySQL**. Includes contact form integration, project showcase, skills section, and local server deployment.
@@ -366,3 +367,6 @@ For issues or questions:
 
 **Last Updated**: December 2025
 **Version**: 1.0.0
+=======
+# Portfolio-web-development
+>>>>>>> 53e1d949a03c52bfdddd00dbab6e55ab22d50d84
